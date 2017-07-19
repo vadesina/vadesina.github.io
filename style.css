@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+body{
+	background: #777;
+}
+
+#wrap{
+	margin-top: 15px;
+	margin-left: 175px;
+	margin-right:175px;
+	margin-bottom: 100px;
+}
+#header{
+	text-align: center;
+	background: #ebebeb;	
+	width: 100%;
+	font-family: 'Arial';
+	font-size: 18px.
+	line-height: 20px;
+	padding: 40px;
+	color: #777;
+}
+#nav{
+	text-align: center;
+	margin-top: 10px;
+	background: #ebebeb;	
+	width: 100%;
+	font-family: 'Arial';
+	font-size: 18px;
+	line-height: 20px;
+	margin-bottom: 20px;
+	padding: 40px;
+	color: #777;
+}
+#aside{
+	float: right;
+	position: relative;
+	width: 41.4%;
+	font-family: 'Arial';
+	font-size: 18px;
+	background: #ebebeb;
+	padding-top: 35px;
+	text-align: center;
+	height: 335px;
+	
+	 
+}
+#section{
+	clear: both;
+	position: relative;
+	float: left;
+	width: 647px;
+	font-family: 'Arial';
+	font-size: 18px;
+	background: #ebebeb;
+	padding-top: 40px;
+	text-align: center;
+	height: 335px;
+	margin-bottom: 20px;
+
+	
+	
+}
+#footer{
+	clear: both;
+	position: relative;
+	text-align: center;
+	margin-top: 100px;
+	background: #ebebeb;	
+	width: 100%;
+	font-family: 'Arial';
+	font-size: 18px;
+	padding: 40px;
+	color: #777;
+
+
+}
+#article{
+	float: middle;
+	background: #777;
+	text-align: center;
+	position: relative;
+	font-size: 18px;
+	font-family: 'Arial';
+	margin-left: 11px;
+	margin-right: 10px;
+	width: 700;
+	padding-top: 20px;
+	margin-top: 31px;
+	margin-bottom: 15px;
+	color: white;
+	padding-bottom: 5px;
+}
+h1{
+	clear:both;
+	text-align: center;
+	position: relative;
+	line-height: 70px;
+	width: 585px;	
+	font-family: 'Arial';
+	font-size: 18px.
+	padding-left: 15px;
+	background: #ebebeb;
+	margin-left: 20px;
+	margin-right: 15px;
+	color: #777;
+	margin-bottom: -5px;
+	padding-top: -10px;
+	margin-top: 20px;
+}
+h2{
+	text-align: center;
+	line-height: 70px;
+	width: 585px;	
+	position: relative;
+	font-family: 'Arial';
+	font-size: 18px;
+	background: #ebebeb;
+	padding-left: 10px;
+	margin-left: 20px;
+	margin-right: 1px;
+	padding-bottom: -20x;
+	color:#777;
+	
+}
+.wrapper{
+	color: #777;
+}
